@@ -1,4 +1,4 @@
-This repository contains the MATLAB files to reproduce the data and figures from "Minimum wave speeds in monostable reaction-diffusion equations: sharp bounds by polynomial optimization" by Jason J. Bramburger and David Goluskin (2020).
+This repository contains the MATLAB files to reproduce the data and figures from [**Minimum wave speeds in monostable reaction-diffusion equations: sharp bounds by polynomial optimization**](https://royalsocietypublishing.org/doi/10.1098/rspa.2020.0450) by Jason J. Bramburger and David Goluskin (Proceedings of the Royal Society A, 2020).
 
 Computations use YALMIP version R20190425 to translate the SOS constraints into semidefinite programs and these are solved using Mosek version 9.0. These programs are publicly available at:
 
