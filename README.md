@@ -23,4 +23,5 @@ In all scripts the parameter 'd' represents the degree of the auxiliary polynomi
 
 - autocatalytic_Volume_LowerBnd: Volume method for producing lower bounds on the minimum wave speed to the two-component autocatalysis reaction-diffusion equation featured in Section 4. Implementation details are found in Section 4.1.
 
+A video abstract associated to this code and the corresponding paper is available at: https://www.youtube.com/watch?v=LtjwMMpxLt8
 
